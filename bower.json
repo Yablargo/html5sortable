@@ -1,16 +1,18 @@
 {
-  "name": "mg-sortable",
+  "name": "html5sortable",
+  "version": "0.0.1",
+  "homepage": "http://farhadi.ir/projects/html5sortable/",
   "authors": [
-    "matthew.galligan@gmail.com"
+    "Ali Farhadi <a.farhadi@gmail.com>"
   ],
-  "description": "HTML5 Sortable Fork for posterity",
+  "description": "Lightweight jQuery plugin to create sortable lists and grids using native HTML5 drag and drop API.",
   "main": "./jquery.sortable.js",
-  "moduleType": [],
   "keywords": [
-    "mgsortable"
+    "html5",
+    "sortable",
+    "jquery"
   ],
   "license": "MIT",
-  "homepage": "",
   "ignore": [
     "**/.*",
     "node_modules",
